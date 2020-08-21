@@ -1,0 +1,14 @@
+
+### VisualStudioCode ###
+.vscode/*
+
+### MACOS ###
+.DS_Store
+
+### python ###
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
