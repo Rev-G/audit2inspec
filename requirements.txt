@@ -1,0 +1,5 @@
+#linting
+flake8
+
+#these may not stay long term
+lxml
