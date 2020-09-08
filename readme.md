@@ -6,6 +6,10 @@ Currently using some code from Tenable to figure out the best way to parse these
 
 https://github.com/tenable/audit_scripts/tree/master/structure
 
+Using audit files from Tenable
+
+https://www.tenable.com/downloads/audit
+
 # Python ENV
 
 ```bash
